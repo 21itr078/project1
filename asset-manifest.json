@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/project1/static/css/main.14ecea86.css",
+    "main.js": "/project1/static/js/main.f7fbf33e.js",
+    "static/media/bmw-offer.png": "/project1/static/media/bmw-offer.d9c47e5777d64c910380.png",
+    "static/media/remixicon.svg?t=1590207869815": "/project1/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/blog-8.jpg": "/project1/static/media/blog-8.428eed904b84c2cac3d2.jpg",
+    "static/media/drive.jpg": "/project1/static/media/drive.20e8cdf89f60377d0de9.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/project1/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/project1/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/blog-4.jpg": "/project1/static/media/blog-4.7128f9688700b5a17743.jpg",
+    "static/media/blog-2.jpg": "/project1/static/media/blog-2.bc23a2ac70c3b84ce1ed.jpg",
+    "static/media/exe.jpg": "/project1/static/media/exe.ed155761d783f74d0a91.jpg",
+    "static/media/blog-3.jpg": "/project1/static/media/blog-3.18413dc77216765d1bd9.jpg",
+    "static/media/ava-3.jpg": "/project1/static/media/ava-3.543b72d7160736e67304.jpg",
+    "static/media/blog-1.jpg": "/project1/static/media/blog-1.9e5b1956c1d266fe1c4a.jpg",
+    "static/media/offer-toyota.png": "/project1/static/media/offer-toyota.9fdd7ee4edb2f0016a71.png",
+    "static/media/slider-1.jpg": "/project1/static/media/slider-1.ea8f1a276a0978a55e99.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/project1/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/blog-5.jpg": "/project1/static/media/blog-5.267ca4b6f77818fc6187.jpg",
+    "static/media/toyota-offer-2.png": "/project1/static/media/toyota-offer-2.89ff72fbf73538316539.png",
+    "static/media/slider-3.jpg": "/project1/static/media/slider-3.6698449356b08c0462f6.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/project1/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/slider-2.jpg": "/project1/static/media/slider-2.3de238f48892e0bd790d.jpg",
+    "static/media/blog-9.jpg": "/project1/static/media/blog-9.c432d39ebc76add05aff.jpg",
+    "static/media/nissan-offer.png": "/project1/static/media/nissan-offer.149505ccce60af3f46e2.png",
+    "static/media/ava-1.jpg": "/project1/static/media/ava-1.829898730ac36e519972.jpg",
+    "static/media/blog-7.jpg": "/project1/static/media/blog-7.d1d857c2aeccb1be4bf6.jpg",
+    "static/media/blog-6.jpg": "/project1/static/media/blog-6.71165dc13ae74d9de14e.jpg",
+    "static/media/ava-4.jpg": "/project1/static/media/ava-4.959c4196633cfa84a608.jpg",
+    "static/media/slick.svg": "/project1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/project1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/project1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/project1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/project1/index.html",
+    "main.14ecea86.css.map": "/project1/static/css/main.14ecea86.css.map",
+    "main.f7fbf33e.js.map": "/project1/static/js/main.f7fbf33e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ecea86.css",
+    "static/js/main.f7fbf33e.js"
+  ]
+}
