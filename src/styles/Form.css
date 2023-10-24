@@ -1,0 +1,159 @@
+/* Base styles */
+/* Common styles for both containers */
+.login-form-container,
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-right: 100px;
+}
+
+/* Right-side container (form) */
+.right-side {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 350px; /* Take full width on smaller screens */
+  max-width: 700px; /* Increase the maximum width */
+}
+
+right-side h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Form elements */
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Error and links styles */
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .login-form-container,
+  .center-container {
+    flex-direction: column; /* Stack containers vertically on smaller screens */
+  }
+
+  .right-side {
+    width: 100%; /* Take full width on smaller screens */
+  }
+}
+
+/* Form.css */
+
+/* Existing styles */
+
+.left-container {
+  flex: 1;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 550px;
+  width: 100px;
+  margin-left: 150px;
+}
+
+.left-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.left-container .form-group {
+  margin-bottom: 15px;
+}
+
+.left-container label {
+  display: block;
+  font-weight: bold;
+}
+
+.left-container input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.announcement-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.delete-button {
+  background-color: #ff0000; /* Red background color */
+  color: #fff; /* White text color */
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.delete-button:hover {
+  background-color: #ff6666; /* Lighter red background color on hover */
+}
+
+.delete-button {
+  font-size: 16px; /* Fixed font size */
+  width: 30px; /* Fixed width */
+  height: 30px; /* Fixed height */
+  background-color: #ff0000; /* Red background color */
+  color: #fff; /* White text color */
+  border: none;
+  cursor: pointer;
+  border-radius: 50%; /* Make it circular */
+}
+
+.delete-button:hover {
+  background-color: #ff6666; /* Lighter red background color on hover */
+}
+
+

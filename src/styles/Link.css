@@ -1,0 +1,100 @@
+.announcement-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.announcement-box {
+  flex: 1;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 2px solid #ccc;
+}
+
+.event-container {
+  margin-bottom: 10px;
+}
+
+.event-container a {
+  text-decoration: none;
+  color: #333;
+}
+
+.vertical-scroll-container {
+  border-top: 1px dotted #333;
+  padding-top: 10px;
+}
+
+.news-item {
+  margin-bottom: 10px;
+}
+
+/* Add a dotted line separator */
+.separator {
+  border-top: 2px dashed #000000;
+  margin: 8px 0; /* Adjust margin as needed */
+}
+
+/* Add dotted lines between list items */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 8px; /* Adjust margin as needed */
+  padding-bottom: 8px; /* Adjust padding as needed */
+  border-bottom: 1px dotted #ccc;
+}
+
+/* Remove the last border from the last item in the list */
+ul li:last-child {
+  border-bottom: none;
+}
+
+/* Style for the "Add more Events" and "Delete Events" buttons */
+.button-container {
+  display:grid;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.add-button, .delete-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px; /* Smaller padding for the button */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+.add-button {
+  margin-right: 10px;
+}
+
+.delete-button {
+  background-color: #0056b3;
+  display: grid;
+}
+.delete-button {
+  margin-left: 170px;
+  
+}
+.add-button:hover, .delete-button:hover {
+  background-color: #0056b3;
+}
+
+.add-button a, .delete-button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.add-button a:hover, .delete-button a:hover {
+  text-decoration: none;
+}

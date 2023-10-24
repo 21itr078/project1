@@ -1,0 +1,71 @@
+/* RegistrationForm.css */
+.register{
+  background-image: url(https://img.freepik.com/premium-vector/soft-pink-abstract-watercolor-background_3590-176.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.registration-form-container {
+  
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    background-color: #eee7ee;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    
+    
+  }
+  
+  .registration-form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="email"],
+  .form-group input[type="tel"],
+  .form-group input[type="date"],
+  .form-group input[type="password"],
+  .form-group input[type="radio"],
+  .form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .radio-group label {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .button-container {
+    text-align: center;
+  }
+  
+  .button-container button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button-container button:hover {
+    background-color: #0056b3;
+  }
+  

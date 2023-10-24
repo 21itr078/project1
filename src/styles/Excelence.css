@@ -1,0 +1,44 @@
+.form {
+  background: #b8b4b4e2;
+  padding-top: 55px;
+  padding-bottom: 50px;
+  padding-left: 150px; /* You can adjust this value */
+  padding-right: 290px; /* Add padding on the right */
+  background: url("../assets/all-images/exe.jpg");
+  background-size: cover;
+  margin-left: -50px; /* Adjust margin to account for the added padding */
+  margin-right: -300px; /* Adjust margin to account for the added padding */
+}
+
+
+
+.select__group {
+  width: 30%;
+}
+
+.select__group select {
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px solid #7c8a972a;
+  outline: none;
+  color: #7c8a97;
+}
+
+.hero__slider-section {
+  position: relative;
+  z-index: 10;
+  margin-bottom: 100px;
+}
+
+.hero__form {
+  position: absolute;
+  bottom: -150px;
+  z-index: 11;
+  width: 100%;
+}
+
+
+
+
+
+
